@@ -73,7 +73,7 @@ jorge[:4] #se vai comecar do comeco da lista, nao preciso colocar o 0. E a mesma
 
 #%%
 
-jorge[start : stop] # se voce ocultou o start, ele pega o comeco da lista. se ocultar o stop, ele assume que esta indo ate o final da lista
+#jorge[start : stop] # se voce ocultou o start, ele pega o comeco da lista. se ocultar o stop, ele assume que esta indo ate o final da lista
 
 #%% como navegar na lista de tras pra frente
 
